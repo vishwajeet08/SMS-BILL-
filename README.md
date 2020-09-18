@@ -13,6 +13,8 @@ This program aslo create and maintain a datasheet in csv format in which they ca
 This program will ask following things :
 
 Name of the coustomer ,
+
+
 Contact Number of the coustomer (on which sms will be send),
 photo size,
 photo number (if any),
