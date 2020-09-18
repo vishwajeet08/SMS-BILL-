@@ -1,5 +1,7 @@
 # SMS-BILL-
-SMS BASED BILL SYSTEM FOR PHOTO STUDIO 
+# SMS BASED BILL SYSTEM FOR PHOTO STUDIO 
+
+# Please read first before using
 
 This program can be usefull for photo studio shops who can use this program to send smsm bill to their coustomer.
 
