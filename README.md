@@ -16,13 +16,18 @@ Name of the coustomer
 
 Contact Number of the coustomer (on which sms will be send)
 
+photo size
 
-photo size,
-photo number (if any),
-Total amount ,
-Advance Amount,
-It will automatically calculate the balance amount ,
+photo number (if any)
+
+Total amount 
+
+Advance Amount
+
+It will automatically calculate the balance amount 
+
 Then it will ask for wether you want to send this sms to coustomer or not : you have to press "y" for yess "n" for no 
+
 
 and after this it will ask do you want to create bill.
 
