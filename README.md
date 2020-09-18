@@ -3,7 +3,7 @@
 
 # Please read first before using
 
-This program can be usefull for photo studio shops who can use this program to send sms bill to their coustomer.
+This program can be useful for photo studio shops who can use this program to send SMS bill to their customer.
 
 Before using this , they have to register with a number on a given website i.e https://www.fast2sms.com/
 
