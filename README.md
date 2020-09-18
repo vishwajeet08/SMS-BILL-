@@ -1,4 +1,4 @@
-# SMS-BILL-
+# SMS-BILL
 # SMS BASED BILL SYSTEM FOR PHOTO STUDIO 
 
 # Please read first before using
